@@ -28,7 +28,25 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### SKILLS :
+- Programming/Scripting Language \
+  JavaScript, TypeScript, Java, Kotlin, Dart
+- Frontend Development \
+  Angular 2+, Vue.js, Vuex, React.js
+- Backend Development \
+  Node.js, Express.js, Hapi.js
+- Mobile Development \
+  Flutter, Android, Ionic
+- Database \
+  PostgreSQL, SQLite
+- Unit Testing \
+  Mocha, Chai
+- DevOps \
+  AWS, Docker, GitHub Actions, GitLab CI/CD
+
+---
+
+### :hammer_and_wrench: LANGUAGES & TOOLES :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
