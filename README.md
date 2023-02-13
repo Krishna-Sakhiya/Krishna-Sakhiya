@@ -15,7 +15,7 @@
 </div>
 
 <div id="badges" align="center">
-    <a href=mailto:sakhiya.krishna.sk@gmail.com?subject="HTML link"/>
+    <a href=mailto:krishna.sakhiya@launchventures.co?subject="HTML link"/>
     <img src="https://img.shields.io/badge/MAIL-red?style=for-the-badge&logo=GMAIL&logoColor=white" alt="Gmail Badge" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/krishna-sakhiya-589baa156">
